@@ -5,7 +5,6 @@ package medbridge;
  * Represents a single medication in a patient's regimen.
  * Stores all fields needed for dose tracking and refill warnings.
  *
- * AP CSA concepts: encapsulation, constructors, getters/setters, toString()
  */
 public class Medication {
 
