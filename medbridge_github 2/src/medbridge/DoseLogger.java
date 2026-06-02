@@ -11,8 +11,6 @@ import java.time.format.DateTimeFormatter;
  * Each log entry is one line in the format:
  *   DATE | TIME | MEDICATION_NAME | PATIENT_NAME
  *
- * AP CSA concepts: static methods, FileWriter (append mode),
- *                  BufferedReader, String.contains(), exception handling
  */
 public class DoseLogger {
 
