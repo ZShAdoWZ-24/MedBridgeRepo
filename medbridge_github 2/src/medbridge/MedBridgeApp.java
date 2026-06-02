@@ -3,31 +3,7 @@ package medbridge;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * MedBridgeApp.java
- * Main entry point for the MedBridge console application.
- * Runs the main menu loop and delegates to helper classes.
- *
- * ┌─────────────────────────────────────────────────────┐
- * │  MedBridge — Prescription Tracking & Reminder App   │
- * │  Built for AP Computer Science A                     │
- * │                                                      │
- * │  Key AP CSA concepts demonstrated:                   │
- * │  • Classes & objects (Medication, DoseLogger, etc.)  │
- * │  • ArrayList<E> — stores the medication list         │
- * │  • File I/O — FileWriter, BufferedReader             │
- * │  • Loops — while (main loop), for-each (display)     │
- * │  • Conditionals — if/else-if (thresholds, branches)  │
- * │  • Static methods — DoseLogger, MedicationManager    │
- * │  • LocalDateTime — timestamps for dose logs          │
- * └─────────────────────────────────────────────────────┘
- *
- * HOW TO RUN:
- *   1. Compile:  javac -d out src/medbridge/*.java
- *   2. Run:      java -cp out medbridge.MedBridgeApp
- *   3. On first run, medications.txt is created automatically.
- *      Edit it to match real prescriptions before use.
- */
+
 public class MedBridgeApp {
 
     // ── Patient name (set at startup) ────────────────────────────────────
