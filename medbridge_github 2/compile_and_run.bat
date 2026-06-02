@@ -1,6 +1,4 @@
 @echo off
-:: MedBridge — compile and run script for Windows
-:: Double-click this file or run from Command Prompt
 
 echo Compiling MedBridge...
 if not exist out mkdir out
