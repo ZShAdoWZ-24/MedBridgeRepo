@@ -1,6 +1,4 @@
-#!/bin/bash
-# MedBridge — compile and run script
-# Run this from the medbridge directory
+
 
 echo "Compiling MedBridge..."
 mkdir -p out
