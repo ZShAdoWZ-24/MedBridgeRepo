@@ -61,4 +61,5 @@ Fischer, M. A., Stedman, M. R., Lii, J., Vogeli, C., Shrank, W. H., Brookhart, M
 
 Author
 
-[Your Name] · AP Computer Science A · [School Name] · 2025–2026
+[Shoumik Manthana] · AP Computer Science A · [Dublin High School
+] · 2025–2026
